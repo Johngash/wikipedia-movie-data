@@ -6,9 +6,12 @@
   "dependencies": {
     "async": "^1.5.2",
     "cheerio": "^0.20.0",
-    "request": "2.x"
+    "dotenv": "^17.2.3",
+    "js-beautify": "^1.15.4",
+    "mongodb": "^7.0.0",
+    "request": "^2.88.2",
+    "scrape-youtube": "^2.4.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
